@@ -1,10 +1,10 @@
 <img src="Screenshot 2023-05-25 at 12.11.27 PM.png" alt="Bank image" width=75%/>
 <h1>Project title</h1>
-<h2>Bad-Bank-Mod-27</h2>
+Bad-Bank-Mod-27
 
 <h1>Description</h1>
-# 3 Tier Banking app with server and db
-## Practice for Capstone Project at MITxPro
+3 Tier Banking app with server and db
+##Practice for Capstone Project at MITxPro
 
 <h1>Installation guidelines</h1>
 # Git clone into VS Code or your prefered code editor
