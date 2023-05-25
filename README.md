@@ -4,26 +4,27 @@ Bad-Bank-Mod-27
 
 <h1>Description</h1>
 3 Tier Banking app with server and db
-##Practice for Capstone Project at MITxPro
+<br>
+Practice for Capstone Project at MITxPro
 
 <h1>Installation guidelines</h1>
-# Git clone into VS Code or your prefered code editor
-# In Terminal, run 'npm install' to install all dependencies
-# Run 'npm start' to run app on [localhost ](http://localhost:3000/#/)
-# 'npm start' will also connect successfully to db sevrer
+Git clone into VS Code or your prefered code editor<br>
+In Terminal, run 'npm install' to install all dependencies <br>
+Run 'npm start' to run app on [localhost ](http://localhost:3000/#/)<br>
+'npm start' will also connect successfully to db sevrer
 
 <h1>Technology Used</h1>
-## React, Express, Mongo, Mongodb, Cors & Nodemon
+React, Express, Mongo, Mongodb, Cors & Nodemon
 
 <h1>Features</h1>
-## Able to create account and have username, email and password stored in database.
-## Looking to improve deposit/withdraw/balance pages for good banking experience.
-## Looking to make functional login page.
-## Only Create Account and Login pages should be available upon initial instance with the app.
+Able to create account and have username, email and password stored in database.<br>
+Looking to improve deposit/withdraw/balance pages for good banking experience.<br>
+Looking to make functional login page.<br>
+Only Create Account and Login pages should be available upon initial instance with the app.<br>
 
 <h1>License</h1>
-# ISC
-## ©2023 DadaDesigns 
+ISC <br>
+©2023 DadaDesigns 
 
 Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
 
