@@ -1,4 +1,4 @@
-<img src="Screenshot 2023-05-25 at 12.11.27 PM.png" alt="Bank image" width=75%/>
+<img src="Screenshot 2023-05-25 at 12.11.27 PM.png" alt="Bank image" width=100%/>
 <h1>Project title</h1>
 Bad-Bank-Mod-27
 
