@@ -9,9 +9,9 @@ Practice for Capstone Project at MITxPro.
 <h1>Installation guidelines</h1>
 <ul>
 <li>Git clone into VS Code or your prefered code editor.</li><br>
-<li>In Terminal, run <strong style="background: "aqua";">npm install</strong> to install all dependencies.</li> <br>
-<li>Run <b>npm start</b> to run app on [localhost ](http://localhost:3000/#/).</li><br>
-<li>Run <b>npm start</b> will also connect successfully to db sevrer.</li>
+<li>In Terminal, run <strong>'npm install'</strong> to install all dependencies.</li> <br>
+<li>Run <b>'npm start'</b> to run app on [localhost ](http://localhost:3000/#/).</li><br>
+<li>Run <b>'npm start'</b> will also connect successfully to db sevrer.</li>
 </ul>
   
 
